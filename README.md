@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/starbucks-landing-page)
   ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/starbucks-landing-page)
   ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/starbucks-landing-page?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/geekyprashant?style=social)]
+  [![Twitter Follow](https://img.shields.io/twitter/follow/)]
  
   <br />
 
