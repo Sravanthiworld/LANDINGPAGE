@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/starbucks-landing-page)
   ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/starbucks-landing-page)
   ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/starbucks-landing-page?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/geekyprashant?style=social)](https://twitter.com/intent/follow?screen_name=geekyprashant)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/geekyprashant?style=social)]
  
   <br />
 
@@ -43,7 +43,7 @@ git clone https://github.com/geeky-prashant/starbucks-landing-page.git
 
 ### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
+If you want to contact me you can reach me at [Twitter].
 
 ### License
 
