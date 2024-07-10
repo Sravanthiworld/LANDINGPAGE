@@ -11,7 +11,7 @@
 
   In this project, I have created Starbucks Landing Page with dark mode, The project is built using HTML, CSS & JavaScript.
 
-  <a href="https://geeky-prashant.github.io/starbucks-landing-page/"><strong>➥ Live Demo</strong></a>
+  <a href="(https://github.com/Sravanthiworld/LANDINGPAGE.git)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -32,13 +32,13 @@ To run **starbucks-landing-page** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/starbucks-landing-page.git
+sudo git clone https://github.com/Sravanthiworld/LANDINGPAGE.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/starbucks-landing-page.git
+git clone https://github.com/Sravanthiworld/LANDINGPAGE.git
 ```
 
 ### Contact
